@@ -1,0 +1,15 @@
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\bin\Debug\net6.0\dia69.exe
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\bin\Debug\net6.0\dia69.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\bin\Debug\net6.0\dia69.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\bin\Debug\net6.0\dia69.dll
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\bin\Debug\net6.0\dia69.pdb
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.dll
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\refint\dia69.dll
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.pdb
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\dia69.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\dia69\dia69\obj\Debug\net6.0\ref\dia69.dll

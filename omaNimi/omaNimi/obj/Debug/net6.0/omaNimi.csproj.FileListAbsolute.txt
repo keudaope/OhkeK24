@@ -1,0 +1,15 @@
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\bin\Debug\net6.0\omaNimi.exe
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\bin\Debug\net6.0\omaNimi.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\bin\Debug\net6.0\omaNimi.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\bin\Debug\net6.0\omaNimi.dll
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\bin\Debug\net6.0\omaNimi.pdb
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.dll
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\refint\omaNimi.dll
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.pdb
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\omaNimi.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\omaNimi\omaNimi\obj\Debug\net6.0\ref\omaNimi.dll

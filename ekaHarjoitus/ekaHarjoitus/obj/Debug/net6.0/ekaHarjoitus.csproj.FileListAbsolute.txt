@@ -1,0 +1,15 @@
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\bin\Debug\net6.0\ekaHarjoitus.exe
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\bin\Debug\net6.0\ekaHarjoitus.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\bin\Debug\net6.0\ekaHarjoitus.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\bin\Debug\net6.0\ekaHarjoitus.dll
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\bin\Debug\net6.0\ekaHarjoitus.pdb
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.dll
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\refint\ekaHarjoitus.dll
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.pdb
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ekaHarjoitus.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\ekaHarjoitus\ekaHarjoitus\obj\Debug\net6.0\ref\ekaHarjoitus.dll
