@@ -86,6 +86,7 @@
             this.VastausLB.Size = new System.Drawing.Size(25, 30);
             this.VastausLB.TabIndex = 4;
             this.VastausLB.Text = "X";
+            this.VastausLB.Visible = false;
             // 
             // LaskeBT
             // 

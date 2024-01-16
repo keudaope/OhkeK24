@@ -20,8 +20,19 @@ namespace T3
                     break;
                 case "-":
                     tulos= luku1 - luku2;
-
+                    break; 
+                case "*":
+                    tulos= luku1 * luku2;
+                    break;
+                case "/":
+                    tulos= luku1 / luku2;
+                    break;
+                default:
+                    tulos = 0;
+                    break;
             }
+            VastausLB.Text = tulos.ToString();
+            VastausLB.Visible= true;
         }
     }
 }
