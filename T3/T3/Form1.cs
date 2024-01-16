@@ -18,6 +18,9 @@ namespace T3
                 case "+":
                     tulos = luku1 + luku2;
                     break;
+                case "-":
+                    tulos= luku1 - luku2;
+
             }
         }
     }
