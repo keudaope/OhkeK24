@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.SalasanaOikeinPL = new System.Windows.Forms.Panel();
-            this.SalasanaPL = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.KayttajaTB = new System.Windows.Forms.TextBox();
-            this.SalasanaTB = new System.Windows.Forms.TextBox();
-            this.TarkistaBT = new System.Windows.Forms.Button();
-            this.VirheViestiLB = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.SalasanaPL = new System.Windows.Forms.Panel();
+            this.VirheViestiLB = new System.Windows.Forms.Label();
+            this.TarkistaBT = new System.Windows.Forms.Button();
+            this.SalasanaTB = new System.Windows.Forms.TextBox();
+            this.KayttajaTB = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SalasanaOikeinPL.SuspendLayout();
             this.SalasanaPL.SuspendLayout();
             this.SuspendLayout();
@@ -53,6 +53,15 @@
             this.SalasanaOikeinPL.Size = new System.Drawing.Size(584, 195);
             this.SalasanaOikeinPL.TabIndex = 0;
             this.SalasanaOikeinPL.Visible = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(5, 57);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(574, 80);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Tervetuloa sivuilleni";
             // 
             // SalasanaPL
             // 
@@ -71,37 +80,15 @@
             this.SalasanaPL.Size = new System.Drawing.Size(584, 195);
             this.SalasanaPL.TabIndex = 1;
             // 
-            // label1
+            // VirheViestiLB
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(25, 20);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(177, 32);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Käyttäjätunnus:";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(92, 79);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(110, 32);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Salasana:";
-            // 
-            // KayttajaTB
-            // 
-            this.KayttajaTB.Location = new System.Drawing.Point(217, 17);
-            this.KayttajaTB.Name = "KayttajaTB";
-            this.KayttajaTB.Size = new System.Drawing.Size(342, 39);
-            this.KayttajaTB.TabIndex = 2;
-            // 
-            // SalasanaTB
-            // 
-            this.SalasanaTB.Location = new System.Drawing.Point(217, 79);
-            this.SalasanaTB.Name = "SalasanaTB";
-            this.SalasanaTB.Size = new System.Drawing.Size(342, 39);
-            this.SalasanaTB.TabIndex = 3;
+            this.VirheViestiLB.AutoSize = true;
+            this.VirheViestiLB.Location = new System.Drawing.Point(25, 142);
+            this.VirheViestiLB.Name = "VirheViestiLB";
+            this.VirheViestiLB.Size = new System.Drawing.Size(67, 32);
+            this.VirheViestiLB.TabIndex = 5;
+            this.VirheViestiLB.Text = "virhe";
+            this.VirheViestiLB.Visible = false;
             // 
             // TarkistaBT
             // 
@@ -114,24 +101,38 @@
             this.TarkistaBT.UseVisualStyleBackColor = true;
             this.TarkistaBT.Click += new System.EventHandler(this.TarkistaBT_Click);
             // 
-            // VirheViestiLB
+            // SalasanaTB
             // 
-            this.VirheViestiLB.AutoSize = true;
-            this.VirheViestiLB.Location = new System.Drawing.Point(25, 142);
-            this.VirheViestiLB.Name = "VirheViestiLB";
-            this.VirheViestiLB.Size = new System.Drawing.Size(67, 32);
-            this.VirheViestiLB.TabIndex = 5;
-            this.VirheViestiLB.Text = "virhe";
-            this.VirheViestiLB.Visible = false;
+            this.SalasanaTB.Location = new System.Drawing.Point(217, 79);
+            this.SalasanaTB.Name = "SalasanaTB";
+            this.SalasanaTB.PasswordChar = '*';
+            this.SalasanaTB.Size = new System.Drawing.Size(342, 39);
+            this.SalasanaTB.TabIndex = 3;
             // 
-            // label3
+            // KayttajaTB
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(5, 57);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(574, 80);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Tervetuloa sivuilleni";
+            this.KayttajaTB.Location = new System.Drawing.Point(217, 17);
+            this.KayttajaTB.Name = "KayttajaTB";
+            this.KayttajaTB.Size = new System.Drawing.Size(342, 39);
+            this.KayttajaTB.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(92, 79);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(110, 32);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Salasana:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(25, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(177, 32);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Käyttäjätunnus:";
             // 
             // SalasanaFM
             // 
