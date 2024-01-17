@@ -29,83 +29,83 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            label1 = new Label();
-            label2 = new Label();
-            MuutettavaTB = new TextBox();
-            MuutaBT = new Button();
-            VastausLB = new Label();
-            SuspendLayout();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.MuutettavaTB = new System.Windows.Forms.TextBox();
+            this.MuutaBT = new System.Windows.Forms.Button();
+            this.VastausLB = new System.Windows.Forms.Label();
+            this.SuspendLayout();
             // 
             // label1
             // 
-            label1.AutoSize = true;
-            label1.BackColor = SystemColors.Window;
-            label1.Font = new Font("Segoe UI", 48F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.ForeColor = Color.Gold;
-            label1.Location = new Point(203, 24);
-            label1.Name = "label1";
-            label1.Size = new Size(644, 86);
-            label1.TabIndex = 0;
-            label1.Text = "Roomalaiset numerot";
-            label1.Click += label1_Click;
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.Window;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.Gold;
+            this.label1.Location = new System.Drawing.Point(205, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(644, 86);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Roomalaiset numerot";
             // 
             // label2
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Lucida Handwriting", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.ForeColor = Color.Gold;
-            label2.Location = new Point(141, 563);
-            label2.Name = "label2";
-            label2.Size = new Size(759, 27);
-            label2.TabIndex = 1;
-            label2.Text = "Anna numero välillä 1-3999, niin muutan sen roomalaiseksi: ";
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Lucida Handwriting", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.Gold;
+            this.label2.Location = new System.Drawing.Point(141, 563);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(759, 27);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Anna numero välillä 1-3999, niin muutan sen roomalaiseksi: ";
             // 
             // MuutettavaTB
             // 
-            MuutettavaTB.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
-            MuutettavaTB.Location = new Point(910, 560);
-            MuutettavaTB.Name = "MuutettavaTB";
-            MuutettavaTB.Size = new Size(100, 35);
-            MuutettavaTB.TabIndex = 2;
+            this.MuutettavaTB.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.MuutettavaTB.Location = new System.Drawing.Point(910, 560);
+            this.MuutettavaTB.Name = "MuutettavaTB";
+            this.MuutettavaTB.Size = new System.Drawing.Size(100, 35);
+            this.MuutettavaTB.TabIndex = 2;
             // 
             // MuutaBT
             // 
-            MuutaBT.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
-            MuutaBT.Location = new Point(909, 601);
-            MuutaBT.Name = "MuutaBT";
-            MuutaBT.Size = new Size(101, 43);
-            MuutaBT.TabIndex = 3;
-            MuutaBT.Text = "Muuta";
-            MuutaBT.UseVisualStyleBackColor = true;
-            MuutaBT.Click += button1_Click;
+            this.MuutaBT.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.MuutaBT.Location = new System.Drawing.Point(909, 601);
+            this.MuutaBT.Name = "MuutaBT";
+            this.MuutaBT.Size = new System.Drawing.Size(101, 43);
+            this.MuutaBT.TabIndex = 3;
+            this.MuutaBT.Text = "Muuta";
+            this.MuutaBT.UseVisualStyleBackColor = true;
+            this.MuutaBT.Click += new System.EventHandler(this.MuutaBT_Click);
             // 
             // VastausLB
             // 
-            VastausLB.AutoSize = true;
-            VastausLB.Font = new Font("Lucida Handwriting", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
-            VastausLB.ForeColor = Color.Gold;
-            VastausLB.Location = new Point(141, 611);
-            VastausLB.Name = "VastausLB";
-            VastausLB.Size = new Size(103, 27);
-            VastausLB.TabIndex = 4;
-            VastausLB.Text = "Vastaus";
-            VastausLB.Visible = false;
+            this.VastausLB.AutoSize = true;
+            this.VastausLB.Font = new System.Drawing.Font("Lucida Handwriting", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.VastausLB.ForeColor = System.Drawing.Color.Gold;
+            this.VastausLB.Location = new System.Drawing.Point(141, 611);
+            this.VastausLB.Name = "VastausLB";
+            this.VastausLB.Size = new System.Drawing.Size(103, 27);
+            this.VastausLB.TabIndex = 4;
+            this.VastausLB.Text = "Vastaus";
+            this.VastausLB.Visible = false;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(1094, 666);
-            Controls.Add(VastausLB);
-            Controls.Add(MuutaBT);
-            Controls.Add(MuutettavaTB);
-            Controls.Add(label2);
-            Controls.Add(label1);
-            Name = "Form1";
-            Text = "Latinalaisten numeroiden muunto roomalaisiksi";
-            ResumeLayout(false);
-            PerformLayout();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(1094, 666);
+            this.Controls.Add(this.VastausLB);
+            this.Controls.Add(this.MuutaBT);
+            this.Controls.Add(this.MuutettavaTB);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "Form1";
+            this.Text = "Latinalaisten numeroiden muunto roomalaisiksi";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
