@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jyrili\\source\\repos\\OhkeK24\\T5\\T5\\T5.csproj": {}
+    "C:\\Users\\jyrili\\source\\repot\\OhkeK24\\T5\\T5\\T5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jyrili\\source\\repos\\OhkeK24\\T5\\T5\\T5.csproj": {
+    "C:\\Users\\jyrili\\source\\repot\\OhkeK24\\T5\\T5\\T5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jyrili\\source\\repos\\OhkeK24\\T5\\T5\\T5.csproj",
+        "projectUniqueName": "C:\\Users\\jyrili\\source\\repot\\OhkeK24\\T5\\T5\\T5.csproj",
         "projectName": "T5",
-        "projectPath": "C:\\Users\\jyrili\\source\\repos\\OhkeK24\\T5\\T5\\T5.csproj",
+        "projectPath": "C:\\Users\\jyrili\\source\\repot\\OhkeK24\\T5\\T5\\T5.csproj",
         "packagesPath": "C:\\Users\\jyrili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jyrili\\source\\repos\\OhkeK24\\T5\\T5\\obj\\",
+        "outputPath": "C:\\Users\\jyrili\\source\\repot\\OhkeK24\\T5\\T5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
