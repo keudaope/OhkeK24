@@ -1,6 +1,6 @@
 ﻿namespace T10
 {
-    partial class NoppaFM
+    partial class BMIFM
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,68 +28,93 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.OtsikkoLB = new System.Windows.Forms.Label();
-            this.Noppa01PB = new System.Windows.Forms.PictureBox();
-            this.Noppa02PB = new System.Windows.Forms.PictureBox();
-            this.HeitaBT = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.Noppa01PB)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Noppa02PB)).BeginInit();
+            this.PainoLB = new System.Windows.Forms.Label();
+            this.PituusLB = new System.Windows.Forms.Label();
+            this.painoTB = new System.Windows.Forms.TextBox();
+            this.pituusTB = new System.Windows.Forms.TextBox();
+            this.laskeBT = new System.Windows.Forms.Button();
+            this.VastausLB = new System.Windows.Forms.Label();
+            this.tulosLB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // OtsikkoLB
+            // PainoLB
             // 
-            this.OtsikkoLB.AutoSize = true;
-            this.OtsikkoLB.Font = new System.Drawing.Font("Comic Sans MS", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.OtsikkoLB.Location = new System.Drawing.Point(26, 19);
-            this.OtsikkoLB.Name = "OtsikkoLB";
-            this.OtsikkoLB.Size = new System.Drawing.Size(221, 45);
-            this.OtsikkoLB.TabIndex = 0;
-            this.OtsikkoLB.Text = "Nopan heitto";
+            this.PainoLB.AutoSize = true;
+            this.PainoLB.Location = new System.Drawing.Point(20, 29);
+            this.PainoLB.Name = "PainoLB";
+            this.PainoLB.Size = new System.Drawing.Size(131, 30);
+            this.PainoLB.TabIndex = 0;
+            this.PainoLB.Text = "Anna paino: ";
             // 
-            // Noppa01PB
+            // PituusLB
             // 
-            this.Noppa01PB.Image = global::T10.Properties.Resources.rollingDice;
-            this.Noppa01PB.Location = new System.Drawing.Point(26, 95);
-            this.Noppa01PB.Name = "Noppa01PB";
-            this.Noppa01PB.Size = new System.Drawing.Size(100, 97);
-            this.Noppa01PB.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.Noppa01PB.TabIndex = 1;
-            this.Noppa01PB.TabStop = false;
-            this.Noppa01PB.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.PituusLB.AutoSize = true;
+            this.PituusLB.Location = new System.Drawing.Point(20, 79);
+            this.PituusLB.Name = "PituusLB";
+            this.PituusLB.Size = new System.Drawing.Size(136, 30);
+            this.PituusLB.TabIndex = 1;
+            this.PituusLB.Text = "Anna pituus: ";
             // 
-            // Noppa02PB
+            // painoTB
             // 
-            this.Noppa02PB.Image = global::T10.Properties.Resources.rollingDice;
-            this.Noppa02PB.Location = new System.Drawing.Point(147, 95);
-            this.Noppa02PB.Name = "Noppa02PB";
-            this.Noppa02PB.Size = new System.Drawing.Size(100, 97);
-            this.Noppa02PB.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.Noppa02PB.TabIndex = 2;
-            this.Noppa02PB.TabStop = false;
+            this.painoTB.Location = new System.Drawing.Point(157, 29);
+            this.painoTB.Name = "painoTB";
+            this.painoTB.Size = new System.Drawing.Size(100, 35);
+            this.painoTB.TabIndex = 2;
             // 
-            // HeitaBT
+            // pituusTB
             // 
-            this.HeitaBT.Location = new System.Drawing.Point(24, 213);
-            this.HeitaBT.Name = "HeitaBT";
-            this.HeitaBT.Size = new System.Drawing.Size(223, 50);
-            this.HeitaBT.TabIndex = 3;
-            this.HeitaBT.Text = "Heitä";
-            this.HeitaBT.UseVisualStyleBackColor = true;
-            this.HeitaBT.Click += new System.EventHandler(this.HeitaBT_Click);
+            this.pituusTB.Location = new System.Drawing.Point(157, 79);
+            this.pituusTB.Name = "pituusTB";
+            this.pituusTB.Size = new System.Drawing.Size(100, 35);
+            this.pituusTB.TabIndex = 3;
             // 
-            // NoppaFM
+            // laskeBT
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.laskeBT.Location = new System.Drawing.Point(22, 127);
+            this.laskeBT.Name = "laskeBT";
+            this.laskeBT.Size = new System.Drawing.Size(235, 39);
+            this.laskeBT.TabIndex = 4;
+            this.laskeBT.Text = "Laske painoindeksi";
+            this.laskeBT.UseVisualStyleBackColor = true;
+            this.laskeBT.Click += new System.EventHandler(this.laskeBT_Click);
+            // 
+            // VastausLB
+            // 
+            this.VastausLB.AutoSize = true;
+            this.VastausLB.Location = new System.Drawing.Point(22, 169);
+            this.VastausLB.Name = "VastausLB";
+            this.VastausLB.Size = new System.Drawing.Size(83, 30);
+            this.VastausLB.TabIndex = 5;
+            this.VastausLB.Text = "Vastaus";
+            this.VastausLB.Visible = false;
+            // 
+            // tulosLB
+            // 
+            this.tulosLB.AutoSize = true;
+            this.tulosLB.Location = new System.Drawing.Point(20, 214);
+            this.tulosLB.Name = "tulosLB";
+            this.tulosLB.Size = new System.Drawing.Size(94, 30);
+            this.tulosLB.TabIndex = 6;
+            this.tulosLB.Text = "Vastaus2";
+            this.tulosLB.Visible = false;
+            // 
+            // BMIFM
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(270, 274);
-            this.Controls.Add(this.HeitaBT);
-            this.Controls.Add(this.Noppa02PB);
-            this.Controls.Add(this.Noppa01PB);
-            this.Controls.Add(this.OtsikkoLB);
-            this.Name = "NoppaFM";
-            this.Text = "Heitä noppaa";
-            ((System.ComponentModel.ISupportInitialize)(this.Noppa01PB)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Noppa02PB)).EndInit();
+            this.ClientSize = new System.Drawing.Size(271, 249);
+            this.Controls.Add(this.tulosLB);
+            this.Controls.Add(this.VastausLB);
+            this.Controls.Add(this.laskeBT);
+            this.Controls.Add(this.pituusTB);
+            this.Controls.Add(this.painoTB);
+            this.Controls.Add(this.PituusLB);
+            this.Controls.Add(this.PainoLB);
+            this.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
+            this.Name = "BMIFM";
+            this.Text = "BMI-laskuri";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -97,9 +122,12 @@
 
         #endregion
 
-        private Label OtsikkoLB;
-        private PictureBox Noppa01PB;
-        private PictureBox Noppa02PB;
-        private Button HeitaBT;
+        private Label PainoLB;
+        private Label PituusLB;
+        private TextBox painoTB;
+        private TextBox pituusTB;
+        private Button laskeBT;
+        private Label VastausLB;
+        private Label tulosLB;
     }
 }
