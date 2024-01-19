@@ -20,6 +20,12 @@ namespace T9
             {
                 vastaus = asteet * 1.8 + 32;
             }
+            else
+            {
+                vastaus = (asteet - 32) / 1.8;
+            }
+            VastausLB.Text = vastaus + "";
+            VastausLB.Visible = true;
         }
     }
 }
