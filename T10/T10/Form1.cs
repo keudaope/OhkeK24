@@ -13,7 +13,6 @@ namespace T10
             paino = double.Parse(painoTB.Text);
             pituus = double.Parse(pituusTB.Text);
             double bmi = Math.Round(paino / (pituus * pituus), 2);
-            MessageBox.Show(bmi + "");
             if (bmi < 18.5)
             {
                 VastausLB.Text = "Painoindeksisi on: " + bmi;

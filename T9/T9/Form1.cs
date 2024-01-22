@@ -24,7 +24,7 @@ namespace T9
             {
                 vastaus = (asteet - 32) / 1.8;
             }
-            VastausLB.Text = vastaus + "";
+            VastausLB.Text = vastaus+"";
             VastausLB.Visible = true;
         }
     }
