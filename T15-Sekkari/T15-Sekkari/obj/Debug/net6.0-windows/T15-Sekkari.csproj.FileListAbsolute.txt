@@ -1,0 +1,17 @@
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15_Sekkari.SekkariFM.resources
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\bin\Debug\net6.0-windows\T15-Sekkari.exe
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\bin\Debug\net6.0-windows\T15-Sekkari.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\bin\Debug\net6.0-windows\T15-Sekkari.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\bin\Debug\net6.0-windows\T15-Sekkari.dll
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\bin\Debug\net6.0-windows\T15-Sekkari.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.dll
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\refint\T15-Sekkari.dll
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\T15-Sekkari.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\T15-Sekkari\T15-Sekkari\obj\Debug\net6.0-windows\ref\T15-Sekkari.dll

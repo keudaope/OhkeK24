@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "T16-Ajastin/1.0.0": {
+        "runtime": {
+          "T16-Ajastin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T16-Ajastin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

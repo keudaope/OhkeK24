@@ -1,0 +1,17 @@
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\bin\Debug\net6.0-windows\T16-Ajastin.exe
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\bin\Debug\net6.0-windows\T16-Ajastin.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\bin\Debug\net6.0-windows\T16-Ajastin.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\bin\Debug\net6.0-windows\T16-Ajastin.dll
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\bin\Debug\net6.0-windows\T16-Ajastin.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16_Ajastin.LaskuriFM.resources
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.dll
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\refint\T16-Ajastin.dll
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\T16-Ajastin.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\T16-Ajastin\T16-Ajastin\obj\Debug\net6.0-windows\ref\T16-Ajastin.dll
