@@ -1,0 +1,17 @@
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\bin\Debug\net6.0-windows\T14-Paivakirja.exe
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\bin\Debug\net6.0-windows\T14-Paivakirja.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\bin\Debug\net6.0-windows\T14-Paivakirja.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\bin\Debug\net6.0-windows\T14-Paivakirja.dll
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\bin\Debug\net6.0-windows\T14-Paivakirja.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14_Paivakirja.DiaryFM.resources
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.dll
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\refint\T14-Paivakirja.dll
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\T14-Paivakirja.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\T14-Paivakirja\T14-Paivakirja\obj\Debug\net6.0-windows\ref\T14-Paivakirja.dll
