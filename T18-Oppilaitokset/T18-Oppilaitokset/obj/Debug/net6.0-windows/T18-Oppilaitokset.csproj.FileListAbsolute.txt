@@ -1,0 +1,16 @@
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\bin\Debug\net6.0-windows\T18-Oppilaitokset.exe
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\bin\Debug\net6.0-windows\T18-Oppilaitokset.deps.json
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\bin\Debug\net6.0-windows\T18-Oppilaitokset.runtimeconfig.json
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\bin\Debug\net6.0-windows\T18-Oppilaitokset.dll
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\bin\Debug\net6.0-windows\T18-Oppilaitokset.pdb
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18_Oppilaitokset.OppilaitoksetFM.resources
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.AssemblyInfo.cs
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.dll
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\refint\T18-Oppilaitokset.dll
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.pdb
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\T18-Oppilaitokset.genruntimeconfig.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitokset\T18-Oppilaitokset\obj\Debug\net6.0-windows\ref\T18-Oppilaitokset.dll
