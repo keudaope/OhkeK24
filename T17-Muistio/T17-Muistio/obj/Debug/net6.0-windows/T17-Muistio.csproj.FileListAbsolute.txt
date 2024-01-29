@@ -1,0 +1,17 @@
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17_Muistio.MuistioFM.resources
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\bin\Debug\net6.0-windows\T17-Muistio.exe
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\bin\Debug\net6.0-windows\T17-Muistio.deps.json
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\bin\Debug\net6.0-windows\T17-Muistio.runtimeconfig.json
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\bin\Debug\net6.0-windows\T17-Muistio.dll
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\bin\Debug\net6.0-windows\T17-Muistio.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.dll
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\refint\T17-Muistio.dll
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.pdb
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\T17-Muistio.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\OhkeK24\T17-Muistio\T17-Muistio\obj\Debug\net6.0-windows\ref\T17-Muistio.dll
