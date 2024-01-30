@@ -7,10 +7,7 @@ namespace T17_Muistio
 {
     public partial class MuistioFM : Form
     {
-        string tiedostoPolku;
-        PrintPreviewDialog printPreviewDialog1;
-        PrintDocument printDocument1;
-
+        string tiedostoPolku = "";
         public MuistioFM()
         {
             InitializeComponent();
@@ -21,7 +18,16 @@ namespace T17_Muistio
 
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            string teksti = rikasTB.Text;
+            if(teksti.Length > 0)
+            {
+                tallennaToolStripMenuItem_Click(sender, e);
+                rikasTB= null;
+            }
+            else
+            {
+                rikasTB= null;
+            }
             
         }
 
@@ -76,7 +82,7 @@ namespace T17_Muistio
                 {
                     using (StreamWriter vk = new StreamWriter(ttk.FileName))
                     {
-                        vk.WriteLineAsync(rikasTB.Text);
+                        vk.WriteLineAsync(rikasTB.Rtf);
                     }
                 }
             }
@@ -90,12 +96,95 @@ namespace T17_Muistio
 
         private void tulostaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            printPreviewDialog1.Document = printDocument1;
+            if(printPreviewDialog1.ShowDialog() == DialogResult.OK)
+            {
+                printDocument1.Print();
+            }
         }
 
         private void poistuToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.Close();
+        }
 
+        private void printDocument1_PrintPage(object sender, PrintPageEventArgs e)
+        {
+            e.Graphics.DrawString(rikasTB.Text, rikasTB.Font, Brushes.Black, 12, 10);
+        }
+
+        private void undoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.Undo();
+        }
+
+        private void redoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.Redo();
+        }
+
+        private void kopioiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.Copy();
+        }
+
+        private void leikkaaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.Cut();
+        }
+
+        private void liitäToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.Paste();
+        }
+
+        private void poistaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.SelectedText = "";
+        }
+
+        private void valitseKaikkiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.SelectAll();
+        }
+
+        private void kirjasinToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fontDialog1.ShowDialog();
+            rikasTB.SelectionFont = new Font(fontDialog1.Font.FontFamily, fontDialog1.Font.Size, fontDialog1.Font.Style);
+        }
+
+        private void rikasTB_TextChanged(object sender, EventArgs e)
+        {
+            if(rikasTB.Text.Length > 0)
+            {
+                kopioiToolStripMenuItem.Enabled= true;
+                leikkaaToolStripMenuItem.Enabled= true;
+            }
+            else
+            {
+                kopioiToolStripMenuItem.Enabled = false;
+                leikkaaToolStripMenuItem.Enabled = false;
+            }
+        }
+
+        private void tekstinRivitysToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(tekstinRivitysToolStripMenuItem.Checked)
+            {
+                tekstinRivitysToolStripMenuItem.Checked= false;
+                rikasTB.WordWrap= false;
+            }
+            else
+            {
+                tekstinRivitysToolStripMenuItem.Checked = true;
+                rikasTB.WordWrap = true;
+            }
+        }
+
+        private void tekstinKorostusToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rikasTB.SelectionBackColor = Color.Yellow;
         }
     }
 }
