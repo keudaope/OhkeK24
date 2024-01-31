@@ -14,10 +14,11 @@ namespace T18_Oppilaitokset
 
         private void OppilaitoksetFM_Load(object sender, EventArgs e)
         {
+            taytaVastuuHenkilotTaulukko();
             taytaOppilaitosTaulukko();
             OppilaitosCB.DataSource = oppilaitos;
             OppilaitosCB.DisplayMember = "ONimi";
-            taytaVastuuHenkilotTaulukko();
+            
 
         }
 

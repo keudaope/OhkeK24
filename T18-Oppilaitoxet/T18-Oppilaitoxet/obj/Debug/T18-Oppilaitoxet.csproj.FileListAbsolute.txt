@@ -9,3 +9,13 @@ C:\Users\jyrili\source\repos\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\bin\Debug
 C:\Users\jyrili\source\repos\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\bin\Debug\T18-Oppilaitoxet.pdb
 C:\Users\jyrili\source\repos\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.exe
 C:\Users\jyrili\source\repos\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.pdb
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\bin\Debug\T18-Oppilaitoxet.exe.config
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\bin\Debug\T18-Oppilaitoxet.exe
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\bin\Debug\T18-Oppilaitoxet.pdb
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18_Oppilaitoxet.AvainhenkilotForm.resources
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18_Oppilaitoxet.Properties.Resources.resources
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.exe
+C:\Users\jyrili\source\repot\omat\OhkeK24\T18-Oppilaitoxet\T18-Oppilaitoxet\obj\Debug\T18-Oppilaitoxet.pdb
