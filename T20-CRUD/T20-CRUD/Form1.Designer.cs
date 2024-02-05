@@ -153,6 +153,7 @@
             this.TyhjennaBT.TabIndex = 12;
             this.TyhjennaBT.Text = "Tyhjennä";
             this.TyhjennaBT.UseVisualStyleBackColor = true;
+            this.TyhjennaBT.Click += new System.EventHandler(this.TyhjennaBT_Click);
             // 
             // TallennaBT
             // 
@@ -174,6 +175,7 @@
             this.PaivitaBT.TabIndex = 14;
             this.PaivitaBT.Text = "Päivitä";
             this.PaivitaBT.UseVisualStyleBackColor = true;
+            this.PaivitaBT.Click += new System.EventHandler(this.PaivitaBT_Click);
             // 
             // PoistaBT
             // 
@@ -184,6 +186,7 @@
             this.PoistaBT.TabIndex = 15;
             this.PoistaBT.Text = "Poista";
             this.PoistaBT.UseVisualStyleBackColor = true;
+            this.PoistaBT.Click += new System.EventHandler(this.PoistaBT_Click);
             // 
             // TietotauluDG
             // 
@@ -193,6 +196,7 @@
             this.TietotauluDG.Name = "TietotauluDG";
             this.TietotauluDG.Size = new System.Drawing.Size(877, 333);
             this.TietotauluDG.TabIndex = 16;
+            this.TietotauluDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TietotauluDG_CellClick);
             // 
             // Form1
             // 
@@ -217,7 +221,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Impact", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
