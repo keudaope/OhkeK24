@@ -57,17 +57,18 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.juomatPL = new System.Windows.Forms.Panel();
-            this.herkutPL = new System.Windows.Forms.Panel();
-            this.KoriPL = new System.Windows.Forms.Panel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.herkutPL = new System.Windows.Forms.Panel();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
+            this.KoriPL = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
+            this.panel6 = new System.Windows.Forms.Panel();
             this.vasenPL.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -397,46 +398,16 @@
             this.juomatPL.Size = new System.Drawing.Size(515, 260);
             this.juomatPL.TabIndex = 4;
             // 
-            // herkutPL
+            // label9
             // 
-            this.herkutPL.Controls.Add(this.label10);
-            this.herkutPL.Controls.Add(this.label11);
-            this.herkutPL.Controls.Add(this.label12);
-            this.herkutPL.Controls.Add(this.label13);
-            this.herkutPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.herkutPL.Location = new System.Drawing.Point(135, 40);
-            this.herkutPL.Name = "herkutPL";
-            this.herkutPL.Size = new System.Drawing.Size(515, 260);
-            this.herkutPL.TabIndex = 5;
-            // 
-            // KoriPL
-            // 
-            this.KoriPL.Controls.Add(this.label14);
-            this.KoriPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.KoriPL.Location = new System.Drawing.Point(135, 40);
-            this.KoriPL.Name = "KoriPL";
-            this.KoriPL.Size = new System.Drawing.Size(515, 260);
-            this.KoriPL.TabIndex = 6;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label6.Location = new System.Drawing.Point(18, 25);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(95, 25);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Lämpimät";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label7.Location = new System.Drawing.Point(236, 28);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(68, 25);
-            this.label7.TabIndex = 1;
-            this.label7.Text = "Kylmät";
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label9.Location = new System.Drawing.Point(236, 66);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(157, 105);
+            this.label9.TabIndex = 3;
+            this.label9.Text = "- vesi                   0,2 €\r\n- porevesi           0,5 €\r\n- virvoitusjuomat 2 €" +
+    "\r\n- energiajuomat   3 €\r\n- tripit                 1,5 €";
             // 
             // label8
             // 
@@ -449,16 +420,37 @@
             this.label8.Text = "- kahvi           1 €\r\n- latte             2 €\r\n- cappucino   2 €\r\n- tee         " +
     "      1 €    \r\n- kaakao        1 €";
             // 
-            // label9
+            // label7
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label9.Location = new System.Drawing.Point(236, 66);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(157, 105);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "- vesi                   0,2 €\r\n- porevesi           0,5 €\r\n- virvoitusjuomat 2 €" +
-    "\r\n- energiajuomat   3 €\r\n- tripit                 1,5 €";
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label7.Location = new System.Drawing.Point(236, 28);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(68, 25);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "Kylmät";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label6.Location = new System.Drawing.Point(18, 25);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(95, 25);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Lämpimät";
+            // 
+            // herkutPL
+            // 
+            this.herkutPL.Controls.Add(this.label10);
+            this.herkutPL.Controls.Add(this.label11);
+            this.herkutPL.Controls.Add(this.label12);
+            this.herkutPL.Controls.Add(this.label13);
+            this.herkutPL.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.herkutPL.Location = new System.Drawing.Point(135, 40);
+            this.herkutPL.Name = "herkutPL";
+            this.herkutPL.Size = new System.Drawing.Size(515, 260);
+            this.herkutPL.TabIndex = 5;
             // 
             // label10
             // 
@@ -501,6 +493,15 @@
             this.label13.TabIndex = 4;
             this.label13.Text = "Makeiset";
             // 
+            // KoriPL
+            // 
+            this.KoriPL.Controls.Add(this.label14);
+            this.KoriPL.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.KoriPL.Location = new System.Drawing.Point(135, 40);
+            this.KoriPL.Name = "KoriPL";
+            this.KoriPL.Size = new System.Drawing.Size(515, 260);
+            this.KoriPL.TabIndex = 6;
+            // 
             // label14
             // 
             this.label14.AutoSize = true;
@@ -511,17 +512,26 @@
             this.label14.TabIndex = 5;
             this.label14.Text = "Verkkokauppa avautuu myöhemmin";
             // 
+            // panel6
+            // 
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel6.Location = new System.Drawing.Point(135, 40);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(515, 260);
+            this.panel6.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(228)))), ((int)(((byte)(228)))));
             this.ClientSize = new System.Drawing.Size(650, 300);
+            this.Controls.Add(this.meistaPL);
+            this.Controls.Add(this.juomatPL);
+            this.Controls.Add(this.panel6);
             this.Controls.Add(this.herkutPL);
             this.Controls.Add(this.KoriPL);
-            this.Controls.Add(this.juomatPL);
             this.Controls.Add(this.ruoatPL);
-            this.Controls.Add(this.meistaPL);
             this.Controls.Add(this.ylaPL);
             this.Controls.Add(this.vasenPL);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -593,5 +603,6 @@
         private Label label12;
         private Label label13;
         private Label label14;
+        private Panel panel6;
     }
 }
