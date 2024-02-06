@@ -95,7 +95,7 @@ namespace T20_CRUD
             SukunimiTB.Text = TietotauluDG.CurrentRow.Cells[2].Value.ToString(); 
             PuhelinTB.Text = TietotauluDG.CurrentRow.Cells[3].Value.ToString();
             EmailTB.Text = TietotauluDG.CurrentRow.Cells[4].Value.ToString();
-            OpiskelijanumeroTB.Text = TietotauluDG.CurrentRow.Cells[6].Value.ToString();
+            OpiskelijanumeroTB.Text = TietotauluDG.CurrentRow.Cells[5].Value.ToString();
         }
 
         private void PoistaBT_Click(object sender, EventArgs e)

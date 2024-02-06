@@ -37,7 +37,7 @@ namespace T20_CRUD
         }
         public DataTable haeOpiskelijat()
         {
-            MySqlCommand komento = new MySqlCommand("Select * FROM Yhteystiedot", yhteys.otaYhteys());
+            MySqlCommand komento = new MySqlCommand("Select * FROM yhteystiedot", yhteys.otaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
             adapteri.SelectCommand = komento;
@@ -47,15 +47,16 @@ namespace T20_CRUD
         public bool muokkaaOpiskelijaa(int oid, String enimi, String snimi, String puh, String email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
-            String paivityskysely = "UPDATE yhteystiedot SET etunimi = @enm, sukunimi = @snm, puhelin =  @puh, sahkoposti = @eml, opiskelijanro = @ono WHERE oid = @oid";
+            String paivityskysely = "UPDATE yhteystiedot SET etunimi = @enm, sukunimi = @snm, puhelin =  @puh, sahkoposti = @eml, opiskelijanumero = @ono WHERE oid = @oid";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.otaYhteys();
             komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi;
             komento.Parameters.Add("@snm", MySqlDbType.VarChar).Value = snimi;
             komento.Parameters.Add("@puh", MySqlDbType.VarChar).Value = puh;
             komento.Parameters.Add("@eml", MySqlDbType.VarChar).Value = email;
-            komento.Parameters.Add("@ono", MySqlDbType.VarChar).Value = onro;
-            komento.Parameters.Add("@oid", MySqlDbType.VarChar).Value = oid;
+            komento.Parameters.Add("@ono", MySqlDbType.UInt32).Value = onro;
+            komento.Parameters.Add("@oid", MySqlDbType.UInt32).Value = oid;
+            yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
             {
                 yhteys.suljeYhteys();
