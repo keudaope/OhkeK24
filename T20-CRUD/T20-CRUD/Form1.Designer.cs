@@ -53,7 +53,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(12, 34);
+            this.label1.Location = new System.Drawing.Point(12, 41);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(37, 26);
             this.label1.TabIndex = 0;
@@ -63,7 +63,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Location = new System.Drawing.Point(12, 73);
+            this.label2.Location = new System.Drawing.Point(3, 76);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(86, 26);
             this.label2.TabIndex = 1;
@@ -73,7 +73,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Location = new System.Drawing.Point(12, 112);
+            this.label3.Location = new System.Drawing.Point(3, 110);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(104, 26);
             this.label3.TabIndex = 2;
@@ -83,7 +83,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
-            this.label4.Location = new System.Drawing.Point(424, 112);
+            this.label4.Location = new System.Drawing.Point(469, 115);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(184, 26);
             this.label4.TabIndex = 5;
@@ -93,7 +93,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Location = new System.Drawing.Point(424, 73);
+            this.label5.Location = new System.Drawing.Point(469, 76);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(124, 26);
             this.label5.TabIndex = 4;
@@ -103,7 +103,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Location = new System.Drawing.Point(424, 34);
+            this.label6.Location = new System.Drawing.Point(469, 41);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(89, 26);
             this.label6.TabIndex = 3;
@@ -111,52 +111,52 @@
             // 
             // IDTB
             // 
-            this.IDTB.Location = new System.Drawing.Point(134, 31);
+            this.IDTB.Location = new System.Drawing.Point(113, 34);
             this.IDTB.Name = "IDTB";
-            this.IDTB.Size = new System.Drawing.Size(263, 33);
+            this.IDTB.Size = new System.Drawing.Size(300, 33);
             this.IDTB.TabIndex = 6;
             // 
             // EtunimiTB
             // 
-            this.EtunimiTB.Location = new System.Drawing.Point(134, 70);
+            this.EtunimiTB.Location = new System.Drawing.Point(113, 73);
             this.EtunimiTB.Name = "EtunimiTB";
-            this.EtunimiTB.Size = new System.Drawing.Size(263, 33);
+            this.EtunimiTB.Size = new System.Drawing.Size(300, 33);
             this.EtunimiTB.TabIndex = 7;
             // 
             // SukunimiTB
             // 
-            this.SukunimiTB.Location = new System.Drawing.Point(134, 109);
+            this.SukunimiTB.Location = new System.Drawing.Point(113, 112);
             this.SukunimiTB.Name = "SukunimiTB";
-            this.SukunimiTB.Size = new System.Drawing.Size(263, 33);
+            this.SukunimiTB.Size = new System.Drawing.Size(300, 33);
             this.SukunimiTB.TabIndex = 8;
             // 
             // OpiskelijanumeroTB
             // 
-            this.OpiskelijanumeroTB.Location = new System.Drawing.Point(634, 109);
+            this.OpiskelijanumeroTB.Location = new System.Drawing.Point(668, 112);
             this.OpiskelijanumeroTB.Name = "OpiskelijanumeroTB";
-            this.OpiskelijanumeroTB.Size = new System.Drawing.Size(263, 33);
+            this.OpiskelijanumeroTB.Size = new System.Drawing.Size(300, 33);
             this.OpiskelijanumeroTB.TabIndex = 11;
             // 
             // EmailTB
             // 
-            this.EmailTB.Location = new System.Drawing.Point(634, 70);
+            this.EmailTB.Location = new System.Drawing.Point(668, 76);
             this.EmailTB.Name = "EmailTB";
-            this.EmailTB.Size = new System.Drawing.Size(263, 33);
+            this.EmailTB.Size = new System.Drawing.Size(300, 33);
             this.EmailTB.TabIndex = 10;
             // 
             // PuhelinTB
             // 
-            this.PuhelinTB.Location = new System.Drawing.Point(634, 31);
+            this.PuhelinTB.Location = new System.Drawing.Point(668, 38);
             this.PuhelinTB.Name = "PuhelinTB";
-            this.PuhelinTB.Size = new System.Drawing.Size(263, 33);
+            this.PuhelinTB.Size = new System.Drawing.Size(300, 33);
             this.PuhelinTB.TabIndex = 9;
             // 
             // TyhjennaBT
             // 
             this.TyhjennaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TyhjennaBT.Location = new System.Drawing.Point(15, 161);
+            this.TyhjennaBT.Location = new System.Drawing.Point(8, 161);
             this.TyhjennaBT.Name = "TyhjennaBT";
-            this.TyhjennaBT.Size = new System.Drawing.Size(180, 53);
+            this.TyhjennaBT.Size = new System.Drawing.Size(176, 48);
             this.TyhjennaBT.TabIndex = 12;
             this.TyhjennaBT.Text = "Tyhjennä";
             this.TyhjennaBT.UseVisualStyleBackColor = true;
@@ -165,9 +165,9 @@
             // TallennaBT
             // 
             this.TallennaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TallennaBT.Location = new System.Drawing.Point(248, 161);
+            this.TallennaBT.Location = new System.Drawing.Point(272, 161);
             this.TallennaBT.Name = "TallennaBT";
-            this.TallennaBT.Size = new System.Drawing.Size(180, 53);
+            this.TallennaBT.Size = new System.Drawing.Size(176, 48);
             this.TallennaBT.TabIndex = 13;
             this.TallennaBT.Text = "Tallenna";
             this.TallennaBT.UseVisualStyleBackColor = true;
@@ -176,9 +176,9 @@
             // PaivitaBT
             // 
             this.PaivitaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PaivitaBT.Location = new System.Drawing.Point(481, 161);
+            this.PaivitaBT.Location = new System.Drawing.Point(536, 161);
             this.PaivitaBT.Name = "PaivitaBT";
-            this.PaivitaBT.Size = new System.Drawing.Size(180, 53);
+            this.PaivitaBT.Size = new System.Drawing.Size(176, 48);
             this.PaivitaBT.TabIndex = 14;
             this.PaivitaBT.Text = "Päivitä";
             this.PaivitaBT.UseVisualStyleBackColor = true;
@@ -187,9 +187,9 @@
             // PoistaBT
             // 
             this.PoistaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PoistaBT.Location = new System.Drawing.Point(714, 161);
+            this.PoistaBT.Location = new System.Drawing.Point(800, 161);
             this.PoistaBT.Name = "PoistaBT";
-            this.PoistaBT.Size = new System.Drawing.Size(180, 53);
+            this.PoistaBT.Size = new System.Drawing.Size(176, 48);
             this.PoistaBT.TabIndex = 15;
             this.PoistaBT.Text = "Poista";
             this.PoistaBT.UseVisualStyleBackColor = true;
@@ -200,9 +200,10 @@
             this.TietotauluDG.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.TietotauluDG.BackgroundColor = System.Drawing.SystemColors.Info;
             this.TietotauluDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.TietotauluDG.Location = new System.Drawing.Point(17, 220);
+            this.TietotauluDG.Location = new System.Drawing.Point(8, 215);
             this.TietotauluDG.Name = "TietotauluDG";
-            this.TietotauluDG.Size = new System.Drawing.Size(877, 333);
+            this.TietotauluDG.RowHeadersWidth = 123;
+            this.TietotauluDG.Size = new System.Drawing.Size(968, 374);
             this.TietotauluDG.TabIndex = 16;
             this.TietotauluDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TietotauluDG_CellClick);
             // 
@@ -211,7 +212,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 26F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(923, 565);
+            this.ClientSize = new System.Drawing.Size(979, 595);
             this.Controls.Add(this.TietotauluDG);
             this.Controls.Add(this.PoistaBT);
             this.Controls.Add(this.PaivitaBT);
