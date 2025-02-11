@@ -93,7 +93,7 @@
             this.label1.ForeColor = System.Drawing.Color.Green;
             this.label1.Location = new System.Drawing.Point(12, 24);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(250, 136);
+            this.label1.Size = new System.Drawing.Size(317, 136);
             this.label1.TabIndex = 4;
             this.label1.Text = "Tervetuloa Hotellisovellukseen. Valitse valikosta, mitä haluat tehdä.";
             // 

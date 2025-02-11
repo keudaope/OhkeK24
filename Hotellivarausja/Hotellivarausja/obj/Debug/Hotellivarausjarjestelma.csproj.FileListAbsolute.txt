@@ -89,3 +89,33 @@ C:\Users\jyrili\source\repos\WindowsForms\Hotellivarausja\Hotellivarausja\obj\De
 C:\Users\jyrili\source\repos\WindowsForms\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.exe
 C:\Users\jyrili\source\repos\WindowsForms\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.pdb
 C:\Users\jyrili\source\repos\WindowsForms\Hotellivarausja\Hotellivarausja\bin\Debug\MySql.Data.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Hotellivarausja.exe.config
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Hotellivarausja.exe
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Hotellivarausja.pdb
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\eCryptography.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Google.Protobuf.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Zstandard.Net.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\Renci.SshNet.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\System.Memory.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\System.Buffers.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\bin\Debug\MySql.Data.xml
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausjarjestelma.csproj.AssemblyReference.cache
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausjarjestelma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.exe.config
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.AsiakkaidenHallinta.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.HuoneidenHallinta.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.Kirjautumisikkuna.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.Paaikkuna.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.Properties.Resources.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.VaraustenHallinta.resources
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausjarjestelma.csproj.GenerateResource.cache
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausjarjestelma.csproj.CoreCompileInputs.cache
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.exe
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotellivarausja.pdb
+C:\Users\Jyri Lindroos\source\repos\OhkeK24\Hotellivarausja\Hotellivarausja\obj\Debug\Hotelliv.8B6F1574.Up2Date

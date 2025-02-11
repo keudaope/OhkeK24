@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFD73C6-7570-47F8-8D1C-FFFC6EB0264F}|T18-Oppilaitoxet\\T18-Oppilaitoxet.csproj|C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\t18-oppilaitoxet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFD73C6-7570-47F8-8D1C-FFFC6EB0264F}|T18-Oppilaitoxet\\T18-Oppilaitoxet.csproj|solutionrelative:t18-oppilaitoxet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFD73C6-7570-47F8-8D1C-FFFC6EB0264F}|T18-Oppilaitoxet\\T18-Oppilaitoxet.csproj|c:\\users\\jyri lindroos\\source\\repos\\ohkek24\\t18-oppilaitoxet\\t18-oppilaitoxet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AFD73C6-7570-47F8-8D1C-FFFC6EB0264F}|T18-Oppilaitoxet\\T18-Oppilaitoxet.csproj|solutionrelative:t18-oppilaitoxet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\T18-Oppilaitoxet\\Form1.cs",
+              "RelativeDocumentMoniker": "T18-Oppilaitoxet\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\T18-Oppilaitoxet\\Form1.cs [Design]*",
+              "RelativeToolTip": "T18-Oppilaitoxet\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T16:07:26.917Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3667a2ec-2da7-4198-8b0c-c8bf1237e83f",
+        "Display": 0,
+        "X": 248,
+        "Y": 75,
+        "Width": 1509,
+        "Height": 721,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\T18-Oppilaitoxet\\Form1.cs",
+              "RelativeDocumentMoniker": "T18-Oppilaitoxet\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jyri Lindroos\\source\\repos\\OhkeK24\\T18-Oppilaitoxet\\T18-Oppilaitoxet\\Form1.cs*",
+              "RelativeToolTip": "T18-Oppilaitoxet\\Form1.cs*",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T16:07:25.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
